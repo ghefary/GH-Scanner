@@ -12,7 +12,7 @@ GH-Scanner is a bin built in python to upload sample file | hash to be scanned v
 2) Result is presented on Std-Out , also saved as a CSV File
   
 ## Req  
-1) Virus Total API Key (free)  ==> Copy Api Key & set it in my_conf.conf like below ex:
+1) free Virus Total API Key   ==> Copy Api Key & set it in my_conf.conf as follows :
 
                                       [VirusTotal]
                                       PublicAPI: "Paste your API Key here"
