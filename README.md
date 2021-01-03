@@ -8,7 +8,7 @@ GH-Scanner is a bin built in python to upload sample file | hash to be scanned v
 * [Demo](#Demo)  
   
 ## Functions  
-1) submit a sample file | hash of  (malware | virus...etc) to be scanned via Virus Total   
+1) submit a sample file (size can not exceed 32MB) | hash of  (malware | virus...etc) to be scanned via Virus Total   
 2) Result is presented on Std-Out , also saved as a CSV File
   
 ## Req  
@@ -33,5 +33,5 @@ Tested with Eicar sample
 1) File Submit 
 
 
-![](https://media.giphy.com/media/p5oGiaN01znIdmGUeV/giphy.gif)
+![](https://media.giphy.com/media/q58uGAQOGKv2996npp/giphy.gif)
 
