@@ -37,8 +37,8 @@ Tested with Eicar sample
 ![](https://media.giphy.com/media/q58uGAQOGKv2996npp/giphy.gif)
 
 ## Screenshots 
-![](images/128 11-44-13-1061.png)
-![](images/174 11-44-15-2483.png)
-![](images/2020-09-04_080627.png)
-![](images/2020-09-04_080637.png)
+![](images/128 11-44-13-1061.png) ![](images/174 11-44-15-2483.png)
+
+![](images/2020-09-04_080627.png) ![](images/2020-09-04_080637.png)
+
 ![](images/325 11-44-21-9943.png)
