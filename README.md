@@ -37,6 +37,6 @@ Tested with Eicar sample
 ![](https://media.giphy.com/media/q58uGAQOGKv2996npp/giphy.gif)
 
 ## Screenshots 
-![](images/1.png) ![](images/2.png)
-![](images/3.png)
-![](images/4.png) ![](images/5.png)
+<img src="images/1.png" width=450> <img src="images/2.png" width=450> 
+<img src="images/3.png" width=600> 
+<img src="images/4.png" width=450>  <img src="images/5.png" width=450> 
