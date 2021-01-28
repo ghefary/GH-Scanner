@@ -34,10 +34,3 @@ Tested with Eicar sample
 
 
 ![](https://media.giphy.com/media/q58uGAQOGKv2996npp/giphy.gif)
-
-
-
-
-
-
-
